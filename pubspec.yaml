@@ -2,7 +2,7 @@ name: calendar_event
 description: A Flutter package for calendar events.
 version: 0.0.1
 author: Alice Kim <aliceykim0828@gmail.com>
-homepage:
+homepage: https://github.com/alice-0-kim/calendar-event
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
